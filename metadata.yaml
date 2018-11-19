@@ -1,11 +1,16 @@
 _repo: Sotamuistelmani-1914-1918_58264
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ludendorff, Erich
     gutenberg_agent_id: '49861'
     url: http://www.gutenberg.org/2009/agents/49861
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58264#Sotamuistelmani-1914-1918
 gutenberg_issued: '2018-11-10'
 gutenberg_type: Text
 identifiers:
